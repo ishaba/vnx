@@ -1,18 +1,17 @@
-# RainbowKit-NextJS 🏗
-🌈 Next JS App Template with RainbowKit Web3.
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+# vnx 
+
+[https://vnx-five.vercel.app](https://vnx-five.vercel.app)
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
